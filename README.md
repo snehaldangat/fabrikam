@@ -1,2 +1,2 @@
 # fabrikam
-This is Exam Related Repositary
+this repository for end module exam of SDM
